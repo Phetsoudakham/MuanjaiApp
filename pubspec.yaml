@@ -1,0 +1,99 @@
+name: muanjai
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/muanjai/assets/images/placemarker35px1.png
+    - packages/muanjai/assets/images/imageremovebgpreview62.png
+    - packages/muanjai/assets/images/imageremovebgpreview74.png
+    - packages/muanjai/assets/images/line5.svg
+    - packages/muanjai/assets/images/line6.svg
+    - packages/muanjai/assets/images/line7.svg
+    - packages/muanjai/assets/images/line8.svg
+    - packages/muanjai/assets/images/imageremovebgpreview21.png
+    - packages/muanjai/assets/images/imageremovebgpreview31.png
+    - packages/muanjai/assets/images/doubleleft38px6.png
+    - packages/muanjai/assets/images/deletebin35px1.png
+    - packages/muanjai/assets/images/line1.svg
+    - packages/muanjai/assets/images/line3.svg
+    - packages/muanjai/assets/images/gb2.png
+    - packages/muanjai/assets/images/originslogo1.png
+    - packages/muanjai/assets/images/lamerlogopngtransparent1.png
+    - packages/muanjai/assets/images/pngtransparentbiothermhdlogoremovebgpreview1.png
+    - packages/muanjai/assets/images/imageremovebgpreview1.png
+    - packages/muanjai/assets/images/esteelauderlogo1.png
+    - packages/muanjai/assets/images/sulwhasoologopng1.png
+    - packages/muanjai/assets/images/lancomelogovector011.png
+    - packages/muanjai/assets/images/rectangle11.svg
+    - packages/muanjai/assets/images/imageremovebgpreview3.png
+    - packages/muanjai/assets/images/ellipse2.png
+    - packages/muanjai/assets/images/heart50px1.png
+    - packages/muanjai/assets/images/group37.svg
+    - packages/muanjai/assets/images/rectangle17.svg
+    - packages/muanjai/assets/images/imageremovebgpreview2.png
+    - packages/muanjai/assets/images/imageremovebgpreview51.png
+    - packages/muanjai/assets/images/imageremovebgpreview.png
+    - packages/muanjai/assets/images/imageremovebgpreview41.png
+    - packages/muanjai/assets/images/imageremovebgpreview61.png
+    - packages/muanjai/assets/images/imageremovebgpreview71.png
+    - packages/muanjai/assets/images/1009032009488721088968395373691054430093312n1.png
+    - packages/muanjai/assets/images/image1.png
+    - packages/muanjai/assets/images/ellipse4.png
+    - packages/muanjai/assets/images/chevronright50px2.png
+    - packages/muanjai/assets/images/group70.svg
+    - packages/muanjai/assets/images/group24.svg
+    - packages/muanjai/assets/images/ellipse3.png
+    - packages/muanjai/assets/images/shoppingbag35px2.png
+    - packages/muanjai/assets/images/maleuser35px1.png
+    - packages/muanjai/assets/images/chatbubble35px1.png
+    - packages/muanjai/assets/images/bungalow35px1.png
+    - packages/muanjai/assets/images/heart35px1.png
+    - packages/muanjai/assets/images/doubleleft38px2.png
+    - packages/muanjai/assets/images/mail38px2.png
+    - packages/muanjai/assets/images/lock38px4.png
+    - packages/muanjai/assets/images/line4.svg
+    - packages/muanjai/assets/images/birthday38px2.png
+    - packages/muanjai/assets/images/iphone38px2.png
+    - packages/muanjai/assets/images/line9.svg
+    - packages/muanjai/assets/images/line10.svg
+    - packages/muanjai/assets/images/ellipse5.png
+    - packages/muanjai/assets/images/purchaseorder35px1.png
+    - packages/muanjai/assets/images/address35px1.png
+    - packages/muanjai/assets/images/person38px3.png
+    - packages/muanjai/assets/images/settings35px1.png
+    - packages/muanjai/assets/images/help35px1.png
+    - packages/muanjai/assets/images/morethan35px1.png
+    - packages/muanjai/assets/images/morethan35px2.png
+    - packages/muanjai/assets/images/exit35px2.png
+    - packages/muanjai/assets/images/morethan35px3.png
+    - packages/muanjai/assets/images/doubleleft38px7.png
+    - packages/muanjai/assets/images/googletranslate35px1.png
+    - packages/muanjai/assets/images/emailsend35px1.png
+    - packages/muanjai/assets/images/picture35px1.png
+    - packages/muanjai/assets/images/ellipse6.svg
+    - packages/muanjai/assets/images/laos35px1.png
+    - packages/muanjai/assets/images/greatbritain35px1.png
+    - packages/muanjai/assets/images/closewindow35px1.png
+    - packages/muanjai/assets/images/doubleleft38px3.png
+    - packages/muanjai/assets/images/person38px2.png
+    - packages/muanjai/assets/images/lock38px3.png
+    - packages/muanjai/assets/images/pngtreetickvectoricon40152701.png
+    - packages/muanjai/assets/images/pngtreetickvectoricon40152702.png
+    - packages/muanjai/assets/images/logomuanjai011.png
+    - packages/muanjai/assets/images/icons8back321.png
+    - packages/muanjai/assets/images/imageremovebgpreview72.png
+    - packages/muanjai/assets/images/imageremovebgpreview73.png
